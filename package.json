@@ -1,7 +1,7 @@
 {
   "name": "nestjs-task-management",
   "version": "0.0.1",
-  "description": "NestJS Example Application",
+  "description": "Example NestJS Application",
   "author": "James A. Black Jr. <mrdesigner@jamesblackjr.com>",
   "license": "MIT",
   "scripts": {
