@@ -1,3 +1,15 @@
+# NestJS Task Management Example App
+
+Based on the [Udemy.com](https://udemy.com) course [NestJS Zero to Hero - Modern TypeScript Back-end Development](https://www.udemy.com/course/nestjs-zero-to-hero/).
+
+Deployed with [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) and [AWS Simple Storage Service (S3)](https://aws.amazon.com/s3/).
+
+[ReactJS](https://reactjs.org/) Front-End Web Interface:
+
+[http://mrdesigner-task-management-frontend.s3-website.us-east-2.amazonaws.com/](http://mrdesigner-task-management-frontend.s3-website.us-east-2.amazonaws.com/)
+
+---
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
@@ -6,7 +18,7 @@
 [travis-url]: https://travis-ci.org/nestjs/nest
 [linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
 [linux-url]: https://travis-ci.org/nestjs/nest
-  
+
   <p align="center">A progressive <a href="http://nodejs.org" target="blank">Node.js</a> framework for building efficient and scalable server-side applications, heavily inspired by <a href="https://angular.io" target="blank">Angular</a>.</p>
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
