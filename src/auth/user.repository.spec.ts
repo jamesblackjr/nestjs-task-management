@@ -1,4 +1,4 @@
-import * as bcrypt from 'bcrypt';
+import * as bcrypt from 'bcryptjs';
 import { Test } from '@nestjs/testing';
 import { UserRepository } from './user.repository';
 import { ConflictException, InternalServerErrorException } from '@nestjs/common';
