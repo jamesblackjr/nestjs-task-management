@@ -12,6 +12,10 @@ async function bootstrap() {
     logger: loggerConfig.enabled ? logger : false,
   });
 
+  if (process.env.NODE_ENV === 'development') {
+    app.enableCors();
+  }
+
   const port = process.env.PORT || serverConfig.port;
   await app.listen(port);
 
