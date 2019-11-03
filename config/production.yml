@@ -1,5 +1,5 @@
 server:
-  origin: https://mrdesigner-task-management-frontend.s3.us-east-2.amazonaws.com
+  origin: http://mrdesigner-task-management-frontend.s3.us-east-2.amazonaws.com
 
 db:
   synchronize: false
